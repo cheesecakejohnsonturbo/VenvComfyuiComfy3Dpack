@@ -4,7 +4,6 @@ If the last stage fails, run VenvInstallComfy3DPack finalize when failed.bat but
 Don't hesitate to suggest improvements and report bugs.
 
 `LEVEL UP!`
-```
-Cheesecake Johnson have leveled up!
+```Cheesecake Johnson have leveled up!
 Cheesecake Johnson went from Noob to Super Noob!
 Congrats
