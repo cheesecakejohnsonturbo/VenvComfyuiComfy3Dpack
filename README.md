@@ -7,4 +7,4 @@ Don't hesitate to suggest improvements and report bugs.
 ```
 Cheesecake Johnson have leveled up!
 Cheesecake Johnson went from Noob to Super Noob!
-Congrats```
+Congrats
