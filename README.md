@@ -14,3 +14,4 @@ Based on https://github.com/brknsoul/ROCmLibs/wiki/ComfyUI-manual-install-instru
 Implementing @BuffMcBigHuge's solution https://github.com/MrForExample/ComfyUI-3D-Pack/issues/437
 Fixing his solution with @HengYuD's solution https://github.com/facebookresearch/pytorch3d/issues/1892#issuecomment-2421585554
 I'm grateful for their direct and indirect contribution to the community and gladly implement their knowledge in this humble CC0 script
+Link to Comfy3DPack https://github.com/MrForExample/ComfyUI-3D-Pack
